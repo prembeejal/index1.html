@@ -11,7 +11,7 @@
     <a href="">    
         <ol>Home About Skills Projects Contact</ol>
     </a>
-    <h2><u>About Me</u></h2>
+    <h3><u>About Me</u></h3>
     <p>Hello! My name is <b>PREM BEEJAL</b></p>
     <p>I am learning <i>HTML</i></p>
     <p><u>This is my personal potfolio websit created as part of assingment</u></p>
@@ -36,7 +36,7 @@
             <td>Beginner</td>
         </tr>
     </table>
-    <h2><u>PROJECTS</u></h2>
+    <h4><u>PROJECTS</u></h4>
     <h1>1. Ordered list Examples</h1>
     <ol type="1">
         <li>Website using html tags</li>
