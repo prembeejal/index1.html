@@ -1,0 +1,28 @@
+div{
+    background: pink;
+}
+.img1{
+    float: right;
+}
+.img2{
+border: color (srgb red green blue);    
+float: left;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    
+}
+.box2{
+     width: 100px;
+    height: 100px;
+    background-color: purple;
+}
+
+}
